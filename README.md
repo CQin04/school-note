@@ -1,36 +1,26 @@
 # School Note · 学校课程资料
 
-学校课程的笔记、作业、实验和复习材料建议集中在此仓库维护。
-
-> 本页是新建的入口说明，不代表历史课程资料已经迁入。原有文件目前未进行覆盖或移动。
+**学校课程、作业、实验与复习材料的正式仓库。** 本仓库公开；今后新课程资料优先存放于此，自主学习笔记仍放在 [learning](https://github.com/CQin04/learning)。
 
 ## 快速入口
 
-- [查看仓库文件](./)
-- [待迁移课程：智能电子系统设计](https://github.com/CQin04/document/tree/main/school-lesson-note/智能电子系统设计)（旧位置：私有仓库）
-- [待迁移课程：高频电子线路](https://github.com/CQin04/document/tree/main/school-lesson-note/高频电子线路)（旧位置：私有仓库）
-- [跨仓库统一导航](https://github.com/CQin04/document/blob/main/INDEX.md)（私有仓库）
+- [浏览课程文件](./)
+- [仓库内搜索课程资料](https://github.com/search?q=repo%3ACQin04%2Fschool-note&type=code)
+- [跨仓库统一导航](https://github.com/CQin04/document/blob/main/INDEX.md)（私有，须有访问权限）
 
-以上链接中的历史课程内容**尚未迁移**，且属于私有仓库，仅有权限的账号可访问。
+## 课程资料维护
 
-## 推荐分类（规划，未自动创建目录）
+- 课程文件按课程名称归类；已有目录结构和命名优先保留，不为统一格式改动现存作业链接。
+- 每门课程尽量维护课程 README，列出作业、实验、题目数量、复习入口以及待整理事项。
+- 所有新资料上传前检查个人信息、教师课件、题图与转载授权，确认适合公开。
+- 不把课程网页里的 Cookie、账号、学生姓名、学号、成绩、访问令牌或含签名的链接提交到仓库。
 
-```text
-课程名称/
-  README.md          # 课程目录、进度与待整理事项
-  notes/             # 笔记和知识点
-  assignments/       # 作业与题目解析
-  labs/              # 实验与报告
-  assets/            # 图片与必要素材
-```
+## 与其他仓库的分工
 
-已有课程如果有清晰的目录结构，优先保留原结构，不强行改名。
+| 仓库 | 归属 |
+| --- | --- |
+| 当前 `school-note` | 学校课程、作业与实验 |
+| [learning](https://github.com/CQin04/learning) | Python / 英语 / 嵌入式等自主学习进度与练习 |
+| [document](https://github.com/CQin04/document) | 通用提示词、教程、AI 工作流和系统工具（私有） |
 
-## 维护约定
-
-1. 课程题目、实验记录和学校作业优先归在这里；个人 Python / 英语 / 嵌入式学习进度继续在 learning。
-2. 每门课程配 README，明确具体题目、答案来源、完成状态与复习入口。
-3. 上传前检查姓名、学号、成绩、课程平台账号、Cookie、私有资料等，不适合公开的内容不要推入本公开仓库。
-4. 从私有仓库迁移资料前，应逐项审核内容、图片、授权和隐私；未经确认不搬动、不删除原件。
-
-[仓库整理待确认计划（需有 private 仓库访问权限）](https://github.com/CQin04/document/blob/main/maintenance/REORGANIZATION_PLAN.md)
+> 旧仓库 `document/school-lesson-note/` 在未核对内容完全对应前暂保留，属于清理中的旧副本；请不要继续向旧位置添加资料。
