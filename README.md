@@ -4,7 +4,9 @@
 
 ## 快速入口
 
-- [浏览课程文件](./)
+- [高频电子线路](高频电子线路/README.md)：章节作业与参考答案
+- [智能电子系统设计 · 焊接技术](智能电子系统设计/01-电子系统的焊接技术/README.md)
+- [浏览仓库全部文件](./)
 - [仓库内搜索课程资料](https://github.com/search?q=repo%3ACQin04%2Fschool-note&type=code)
 - [跨仓库统一导航](https://github.com/CQin04/document/blob/main/INDEX.md)（私有，须有访问权限）
 
